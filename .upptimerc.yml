@@ -6,6 +6,8 @@ sites:
   - name: OfferManager
     url: https://coupons.valassis.eu/lib/offermanager/latest/init.html?mapped=/capi/
     expectedStatusCodes:
+      - 200
+      - 301
       - 302
   - name: Vales y Cupones
     url: https://www.valesycupones.es/
