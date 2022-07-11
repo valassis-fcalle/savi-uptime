@@ -4,7 +4,9 @@ repo: savi-uptime # The name of this repository
 
 sites:
   - name: OfferManager
-    url: https://coupons.valassis.eu/capi/
+    url: https://coupons.valassis.eu/lib/offermanager/latest/init.html?mapped=/capi/
+    expectedStatusCodes:
+      - 302
   - name: Vales y Cupones
     url: https://www.valesycupones.es/
 
