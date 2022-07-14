@@ -9,8 +9,14 @@ sites:
       - 200
       - 301
       - 302
-  - name: Vales y Cupones
+  - name: 🇩🇪 Savi Deutschland
+    url: https://savigermany.de/
+  - name: 🇪🇸 Savi Spain
     url: https://www.valesycupones.es/
+  - name: 🇮🇹 Savi Italy
+    url: https://saviitalia.it/
+  - name: 🇬🇧 Savi UK
+    url: https://saviuk.co.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
