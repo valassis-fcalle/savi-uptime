@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/coupons.valassis.eu",
     "slug": "offer-manager",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.91%",
-    "time": 845,
-    "timeDay": 388,
-    "timeWeek": 845,
-    "timeMonth": 845,
-    "timeYear": 845,
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
+    "time": 829,
+    "timeDay": 738,
+    "timeWeek": 829,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2022-07-11": 47
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 629,
-    "timeWeek": 797,
-    "timeMonth": 797,
-    "timeYear": 797,
+    "time": 829,
+    "timeDay": 989,
+    "timeWeek": 829,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {}
   }
 ]
